@@ -1,2 +1,2 @@
-Initial code
+Initial code 
 print("This is a updated code")
